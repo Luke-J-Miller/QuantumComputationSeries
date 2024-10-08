@@ -45,6 +45,9 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Data Encoding in Quantum Systems  
 - Challenges in QML  
  
+#### Video Link: https://youtu.be/3vDbVQh0Ba8
+#### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar3
+
 
 ## Session 4: Quantum Graph Neural Networks (QGNNs)
 ### Date: November 14, 2024
@@ -56,3 +59,6 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Quantum Graph Neural Networks (QGNNs)
 - Practical Examples
 - Challenges in Quantum Graph Neural Networks
+
+#### Video Link: https://youtu.be/3vDbVQh0Ba8
+#### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar4
