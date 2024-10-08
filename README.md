@@ -45,7 +45,7 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Data Encoding in Quantum Systems  
 - Challenges in QML  
  
-#### Video Link: https://youtu.be/3vDbVQh0Ba8
+#### Video Link: Will be posted after the seminar
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar3
 
 
@@ -60,5 +60,5 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Practical Examples
 - Challenges in Quantum Graph Neural Networks
 
-#### Video Link: https://youtu.be/3vDbVQh0Ba8
+#### Video Link: Will be posted after the seminar
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar4
