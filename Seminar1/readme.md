@@ -9,3 +9,4 @@
 - Basic Quantum Gates  
 - Quantum Computing for AI  
 #### Video Link: https://youtu.be/3vDbVQh0Ba8
+#### Basics of Programming with QisKit: https://github.com/Luke-J-Miller/QuantumComputationSeries/blob/main/Seminar1/QuantumBasics.ipynb
