@@ -62,3 +62,7 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 
 #### Video Link: Will be posted after the seminar
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar4
+
+
+# Join me on Discord
+https://discord.gg/Dm8HjfQzk5
