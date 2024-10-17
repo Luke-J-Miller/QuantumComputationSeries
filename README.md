@@ -31,7 +31,7 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Quantum Fourier Transform (QFT)  
 - Quantum Algorithms in AI  
 
-#### Video Link: Will be posted after the seminar
+#### Video Link: https://youtu.be/YeGVHckIajc
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar2
 
 ## Session 3: Quantum Machine Learning (QML)
@@ -45,7 +45,7 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Data Encoding in Quantum Systems  
 - Challenges in QML  
  
-#### Video Link:https://youtu.be/YeGVHckIajc
+#### Video Link: 
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar3
 
 
