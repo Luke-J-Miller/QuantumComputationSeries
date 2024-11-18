@@ -9,7 +9,7 @@
 - Practical Examples
 - Challenges in Quantum Graph Neural Networks
 
-#### Video Link: Will be posted after the seminar
+#### Video Link: https://www.youtube.com/watch?v=yRgE4aSOuRQ
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar4
 
 
