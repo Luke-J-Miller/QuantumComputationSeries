@@ -45,7 +45,7 @@ We welcome all to participate and learn alongside us as we explore cutting-edge 
 - Data Encoding in Quantum Systems  
 - Challenges in QML  
  
-#### Video Link: 
+#### Video Link: https://www.youtube.com/watch?v=SPfvOn-7fXw
 #### Materials: https://github.com/Luke-J-Miller/QuantumComputationSeries/tree/main/Seminar3
 
 
